@@ -1,0 +1,1 @@
+# MyEclipseProject copied from Eclipse
